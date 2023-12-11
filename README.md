@@ -3,7 +3,7 @@
 
 
 **`Digital Adventurer ( Developer / Tech Enthusiast )`**
-
+</br>
 
 👋 Hey, I'm [Your Name], a dedicated coder and developer with a passion for emerging tech.
 
@@ -15,11 +15,11 @@
 
 🔧 **Tech Explorer:** I find joy in tinkering with hardware, exploring various facets of the tech ecosystem.
 
-🚀 **GitHub Showcase:** Check out my dynamic GitHub, where I highlight my coding prowess, experiments with emerging tech, and contributions to open-source projects.
+🚀 **GitHub Showcase:** Check out my dynamic GitHub, where I highlight my coding prowess and contributions to open-source projects.
 
 🌐 **Join the Journey:** Let's embark on this exciting journey of limitless possibilities together!
 
-
+</br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurav-dhait-623771292/)
 
