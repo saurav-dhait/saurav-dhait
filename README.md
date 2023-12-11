@@ -19,17 +19,16 @@
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="/icons/Python-Dark.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="/icons/Flask-Dark.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="/icons/Django.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="/icons/HTML.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="/icons/CSS.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="/icons/JavaScript.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="/icons/TailwindCSS-Dark.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="/icons/Git.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="/icons/Github-Dark.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="/icons/CPP.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="/icons/Linux-Dark.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="/icons/Bash-Dark.svg" />
 <br />
 </div>
