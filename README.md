@@ -1,6 +1,6 @@
 # 😎 Saurav Dhait
 
-**`Tech Enthusiast`**
+**`Digital Adventurer ( Developer / Tech Enthusiast )`**
 
 
 👋 Hey, I'm Saurav Dhait, a dedicated coder and developer fueled by an insatiable curiosity for emerging tech. Each day, I explore new technologies, staying on the cutting edge and embracing the excitement of continuous learning.
