@@ -13,7 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurav-dhait-623771292/)
 
 
-<div style="background-color: red; padding: 10px; border-radius: 5px;">
+
   
 ---
 ### 🧰 Languages and Tools
@@ -31,4 +31,4 @@
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="/icons/Linux-Dark.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="/icons/Bash-Dark.svg" />
 <br />
-</div>
+
