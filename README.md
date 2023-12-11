@@ -8,9 +8,9 @@
 Hey, I'm Saurav Dhait, a dedicated coder and developer fueled by an insatiable curiosity for emerging tech. Each day, I explore new technologies, 
 staying on the cutting edge and embracing the excitement of continuous learning.
 
-🧠 **Problem Solver:** In addition to coding, I excel in competitive programming and love diving into the world of mathematics.
+🧠 **Problem Solver:** In addition to coding, I do a bit of competitive programming and love diving into the world of mathematics.
 
-🔧 **Tech Explorer:** I find joy in tinkering with hardware, exploring various facets of the tech ecosystem.
+🔧 **Tech Explorer:** I find joy in tinkering with hardware, exploring various aspects of the tech ecosystem.
 
 🚀 **GitHub Showcase:** Check out my dynamic GitHub, where I highlight my coding prowess and contributions to open-source projects.
 
