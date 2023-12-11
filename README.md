@@ -32,5 +32,5 @@
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="/icons/Bash-Dark.svg" />
 <br />
 
-###
+---
 ![Saurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=saurav-dhait&show_icons=true&theme=dracula)
