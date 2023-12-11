@@ -5,11 +5,8 @@
 **`Digital Adventurer ( Developer / Tech Enthusiast )`**
 </br>
 
-👋 Hey, I'm [Your Name], a dedicated coder and developer with a passion for emerging tech.
-
-💡 **Curious Learner:** I explore new technologies daily, staying on the cutting edge of the tech world.
-
-💻 **Coding Enthusiast:** I thrive on crafting elegant code and enjoy the challenge of continuous learning.
+👋 Hey, I'm Saurav Dhait, a dedicated coder and developer fueled by an insatiable curiosity for emerging tech. Each day, I explore new technologies, 
+staying on the cutting edge and embracing the excitement of continuous learning.
 
 🧠 **Problem Solver:** In addition to coding, I excel in competitive programming and love diving into the world of mathematics.
 
