@@ -1,5 +1,5 @@
 # ❄ Saurav Dhait
-<img align="left" src="/octo.gif" width="150" height="150" alt="github logo"/>
+<img align="left" src="/octo.gif" width="150" height="150" alt="github logo" style="display: block; margin: 0 auto;"/>
 
 </br>
 
